@@ -1,0 +1,43 @@
+Basic commands
+
+	cat - Read (concatenate) one or more file(s), display on standard output
+	cd - ChangeDirectory, change directory
+	chmod - CHangeMODe - change the access mode (access permissions) of one or more file(s) )
+	chown - CHangeOWNer - change the owner of one or more file(s)
+	cp - copy crontab files
+	- schedule
+	cut tasks - Remove specific parts of text in each line of a file
+	date - Display the date according to the requested format
+	dd - DevicetoDevice - Copies byte by byte all or part of the content of a device (usually storage) to another device.
+	df - display the amount of free space available on all filesystems
+	in the - DiksUsage - disk usage
+	echo - print text to standard output (on screen)
+	exit - stop execution of shell
+	find - search for fsck files
+	- FileSystemChecK - grep filesystem integrity check
+	- search one or more files for lines that match a
+	groupadd pattern - add user group gunzip -
+	gzip
+	file decompression -
+	head file compression - displays the first lines (default 10) of a
+	help file - displays help on bash internal commands
+	kill - send a signal to a process
+	less - on-screen display program
+	ln - create links
+	ls - list contents of
+	man directories - display man pages
+	mkdir - MaKeDIRectory - create
+	mkfs directory - MaKeFileSystem - create filesystems
+	more - mount screen display program
+	- mount mv filesystem
+	- move, rename file
+	ps - show running processes
+	pwd - print name of current/working directory - show path full current directory
+	rm - remove files
+	rmdir -Remove empty directories - remove empty directory
+	tail - display the last 10 lines of a
+	tar file - create
+	su archives - Substitute User identity or Switch User - impersonate a user
+	uname - Display system information.
+	useradd - add user
+	whereis - locate command
