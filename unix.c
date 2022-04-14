@@ -1,12 +1,4 @@
-#include <unistd.h>
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-#include <sys/wait.h>
-
-#define PRMTSIZ 255
-#define MAXARGS 63
-#define EXITCMD "exit"
+#include "shell.h"
 
 int main(void)
 {
