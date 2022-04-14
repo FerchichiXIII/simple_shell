@@ -1,5 +1,5 @@
-#define PRMTSIZ 255
-#define MAXARGS 63
+#ifndef SHELL_H
+#define SHELL_H
 
 #include <unistd.h>
 #include <stdio.h>
@@ -7,4 +7,4 @@
 #include <stdlib.h>
 #include <sys/wait.h>
 
-#define EXITCMD "exit"
+#endif
